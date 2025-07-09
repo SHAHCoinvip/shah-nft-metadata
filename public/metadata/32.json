@@ -1,0 +1,15 @@
+{
+  "name": "SHAH GOLD NFT #32",
+  "description": "Exclusive SHAH GOLD NFT #32 with access perks and staking boosts.",
+  "image": "https://shahcoinvip.vercel.app/images/32.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "ID",
+      "value": "32"
+    }
+  ]
+}
