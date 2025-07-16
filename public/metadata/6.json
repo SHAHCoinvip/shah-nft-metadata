@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #6",
-  "description": "Exclusive SHAH GOLD NFT #6 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/6.png",
+  "name": "SHAH GOLD #6 – Fire of Zarvan",
+  "description": "This SHAH GOLD NFT, titled \"Fire of Zarvan\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/6.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Common"
     },
     {
-      "trait_type": "ID",
-      "value": "6"
+      "trait_type": "Boost",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star"
     }
   ]
 }

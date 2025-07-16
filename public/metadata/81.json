@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #81",
-  "description": "Exclusive SHAH GOLD NFT #81 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/81.png",
+  "name": "SHAH GOLD #81 – Blade of Ancestry",
+  "description": "This SHAH GOLD NFT, titled \"Blade of Ancestry\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/81.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "81"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lion"
     }
   ]
 }

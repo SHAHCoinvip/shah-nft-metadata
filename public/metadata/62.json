@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #62",
-  "description": "Exclusive SHAH GOLD NFT #62 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/62.png",
+  "name": "SHAH GOLD #62 – Thronewalker",
+  "description": "This SHAH GOLD NFT, titled \"Thronewalker\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/62.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "62"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crown"
     }
   ]
 }

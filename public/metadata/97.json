@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #97",
-  "description": "Exclusive SHAH GOLD NFT #97 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/97.png",
+  "name": "SHAH GOLD #97 – Gilded Monarch",
+  "description": "This SHAH GOLD NFT, titled \"Gilded Monarch\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/97.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Legendary"
     },
     {
-      "trait_type": "ID",
-      "value": "97"
+      "trait_type": "Boost",
+      "value": "20%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flame"
     }
   ]
 }

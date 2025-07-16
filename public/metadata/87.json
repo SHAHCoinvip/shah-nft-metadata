@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #87",
-  "description": "Exclusive SHAH GOLD NFT #87 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/87.png",
+  "name": "SHAH GOLD #87 – Emissary of Flame",
+  "description": "This SHAH GOLD NFT, titled \"Emissary of Flame\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/87.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "87"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lion"
     }
   ]
 }

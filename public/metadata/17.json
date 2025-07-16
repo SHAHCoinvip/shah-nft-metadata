@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #17",
-  "description": "Exclusive SHAH GOLD NFT #17 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/17.png",
+  "name": "SHAH GOLD #17 – Whisper of the Crown",
+  "description": "This SHAH GOLD NFT, titled \"Whisper of the Crown\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/17.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Common"
     },
     {
-      "trait_type": "ID",
-      "value": "17"
+      "trait_type": "Boost",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sword"
     }
   ]
 }

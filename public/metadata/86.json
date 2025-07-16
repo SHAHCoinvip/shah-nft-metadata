@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #86",
-  "description": "Exclusive SHAH GOLD NFT #86 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/86.png",
+  "name": "SHAH GOLD #86 – The Radiant Reign",
+  "description": "This SHAH GOLD NFT, titled \"The Radiant Reign\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/86.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "86"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crown"
     }
   ]
 }

@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #85",
-  "description": "Exclusive SHAH GOLD NFT #85 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/85.png",
+  "name": "SHAH GOLD #85 – Cosmic Throne",
+  "description": "This SHAH GOLD NFT, titled \"Cosmic Throne\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/85.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "85"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flame"
     }
   ]
 }

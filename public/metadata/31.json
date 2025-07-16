@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #31",
-  "description": "Exclusive SHAH GOLD NFT #31 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/31.png",
+  "name": "SHAH GOLD #31 – The Forbidden Jewel",
+  "description": "This SHAH GOLD NFT, titled \"The Forbidden Jewel\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/31.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Common"
     },
     {
-      "trait_type": "ID",
-      "value": "31"
+      "trait_type": "Boost",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flame"
     }
   ]
 }

@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #21",
-  "description": "Exclusive SHAH GOLD NFT #21 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/21.png",
+  "name": "SHAH GOLD #21 – Voice of Faravahar",
+  "description": "This SHAH GOLD NFT, titled \"Voice of Faravahar\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/21.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Common"
     },
     {
-      "trait_type": "ID",
-      "value": "21"
+      "trait_type": "Boost",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lion"
     }
   ]
 }

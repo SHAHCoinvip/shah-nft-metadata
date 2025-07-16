@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #88",
-  "description": "Exclusive SHAH GOLD NFT #88 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/88.png",
+  "name": "SHAH GOLD #88 – Sigil of the Seven",
+  "description": "This SHAH GOLD NFT, titled \"Sigil of the Seven\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/88.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "88"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Orb"
     }
   ]
 }

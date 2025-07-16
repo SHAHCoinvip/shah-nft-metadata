@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #75",
-  "description": "Exclusive SHAH GOLD NFT #75 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/75.png",
+  "name": "SHAH GOLD #75 – Kingmaker’s Jewel",
+  "description": "This SHAH GOLD NFT, titled \"Kingmaker’s Jewel\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/75.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "75"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lion"
     }
   ]
 }

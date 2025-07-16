@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #78",
-  "description": "Exclusive SHAH GOLD NFT #78 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/78.png",
+  "name": "SHAH GOLD #78 – Flamewalker",
+  "description": "This SHAH GOLD NFT, titled \"Flamewalker\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/78.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "78"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star"
     }
   ]
 }

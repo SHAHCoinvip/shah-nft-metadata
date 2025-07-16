@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #65",
-  "description": "Exclusive SHAH GOLD NFT #65 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/65.png",
+  "name": "SHAH GOLD #65 – Eye of Royalty",
+  "description": "This SHAH GOLD NFT, titled \"Eye of Royalty\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/65.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "65"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sword"
     }
   ]
 }

@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #9",
-  "description": "Exclusive SHAH GOLD NFT #9 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/9.png",
+  "name": "SHAH GOLD #9 – Eternal Dawn",
+  "description": "This SHAH GOLD NFT, titled \"Eternal Dawn\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/9.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Common"
     },
     {
-      "trait_type": "ID",
-      "value": "9"
+      "trait_type": "Boost",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lion"
     }
   ]
 }

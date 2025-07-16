@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #22",
-  "description": "Exclusive SHAH GOLD NFT #22 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/22.png",
+  "name": "SHAH GOLD #22 – Chains of Glory",
+  "description": "This SHAH GOLD NFT, titled \"Chains of Glory\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/22.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Common"
     },
     {
-      "trait_type": "ID",
-      "value": "22"
+      "trait_type": "Boost",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Orb"
     }
   ]
 }

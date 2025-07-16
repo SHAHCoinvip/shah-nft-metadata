@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #49",
-  "description": "Exclusive SHAH GOLD NFT #49 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/49.png",
+  "name": "SHAH GOLD #49 – Blood of Kings",
+  "description": "This SHAH GOLD NFT, titled \"Blood of Kings\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/49.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Common"
     },
     {
-      "trait_type": "ID",
-      "value": "49"
+      "trait_type": "Boost",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flame"
     }
   ]
 }

@@ -1,15 +1,19 @@
 {
-  "name": "SHAH GOLD NFT #63",
-  "description": "Exclusive SHAH GOLD NFT #63 with access perks and staking boosts.",
-  "image": "https://shahcoinvip.vercel.app/images/63.png",
+  "name": "SHAH GOLD #63 – Crimson Kingdom",
+  "description": "This SHAH GOLD NFT, titled \"Crimson Kingdom\", embodies royal strength, ancient mystery, and modern defiance. Grants enhanced staking power and exclusive access in the SHAH ecosystem.",
+  "image": "https://raw.githubusercontent.com/SHAHCoinvip/shah-nft-metadata/main/public/images/63.jpg",
   "attributes": [
     {
       "trait_type": "Tier",
-      "value": "VIP"
+      "value": "Rare"
     },
     {
-      "trait_type": "ID",
-      "value": "63"
+      "trait_type": "Boost",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lion"
     }
   ]
 }
